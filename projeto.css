@@ -18,6 +18,10 @@ a{
     color: white;
     text-decoration: none;
 }
+
+.linkp{
+    color: #9FC131;
+}
 nav{
     margin-top: 16px;
     margin-left: 8px;
@@ -108,7 +112,7 @@ p{
 
 .conteudo p{
     font-size: 16px;
-    line-height: 3;
+    line-height: 1.5;
     font-weight: 300;
 }
 
