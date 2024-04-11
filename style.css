@@ -36,13 +36,12 @@ header{
     position: relative;
 }
 img{
-    
     width: 150px;
     height: 150px;
     border-radius: 50%;
     border: 5px solid #9FC131;
-   
 }
+
 .campo{
     text-align: center;
 }
